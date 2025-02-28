@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @UnderpaidCoder
-- 👀 I’m interested in ... Punching my dick 
-- 🌱 I’m currently learning ... how to hump rust 
-- 💞️ I’m looking to collaborate on ... humping rust 
-- 📫 How to reach me ... rust humping 
+- 👀 I’m interested in ... breathing air
+- 🌱 I’m currently learning ... how to explode 
+- 💞️ I’m looking to collaborate on ... ROR2 modding
+- 📫 How to reach me ... its too late for me
+  
 
 <!---
 UnderpaidCoder/UnderpaidCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
